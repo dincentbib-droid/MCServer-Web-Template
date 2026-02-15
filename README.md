@@ -2,7 +2,7 @@
 ![Logo](https://imgur.com/VE1nWC7.png)
 
 
-# FQQD's MCServer Website Template 1.0
+# VortexSMP
 
 A template for a modern looking website to promote your Minecraft server.
 
