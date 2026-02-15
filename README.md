@@ -1,5 +1,4 @@
 
-![Logo](https://imgur.com/VE1nWC7.png)
 
 
 # VortexSMP
