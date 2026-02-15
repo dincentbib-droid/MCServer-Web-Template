@@ -80,9 +80,6 @@ You can use and edit the website as much as you want, as long as the "Made by FQ
 - Originally made for [@HerrFisch](https://www.github.com/HerrFisch)
 
 
-## Lastly...
-If you have any further question or want to help and contribute, the best ways to do this are
-- Creating an [issue report](https://github.com/FQQD/MCServer-Web-Template/issues)
-- Joining [my discord](https://dc.fqqd.de) and asking for help
+
 
 Here's a cookie for reading this far: 🍪
